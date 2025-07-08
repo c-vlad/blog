@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/portfolio/articles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/articles/audience-intelligence/audience-intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/audience-intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/essai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/articles/leadership/from-ic-to-leader/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/leadership/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
+  </url>
+</urlset>
