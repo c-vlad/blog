@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/articles/</loc>
+    <loc>https://c-vlad.github.io/blog/articles/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/articles/audience-intelligence/audience-intelligence/</loc>
+    <loc>https://c-vlad.github.io/blog/articles/audience-intelligence/audience-intelligence/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/categories/audience-intelligence/</loc>
+    <loc>https://c-vlad.github.io/blog/categories/audience-intelligence/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://c-vlad.github.io/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/categories/</loc>
+    <loc>https://c-vlad.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/essai/</loc>
+    <loc>https://c-vlad.github.io/blog/tags/essai/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/articles/leadership/from-ic-to-leader/</loc>
+    <loc>https://c-vlad.github.io/blog/articles/leadership/from-ic-to-leader/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/categories/leadership/</loc>
+    <loc>https://c-vlad.github.io/blog/categories/leadership/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/</loc>
+    <loc>https://c-vlad.github.io/blog/tags/</loc>
   </url>
 </urlset>
