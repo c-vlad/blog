@@ -1,0 +1,15 @@
+{
+  "name": "C Vlad",
+  "short_name": "C Vlad",
+  "start_url": "/portfolio/",
+  "scope": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/portfolio/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
