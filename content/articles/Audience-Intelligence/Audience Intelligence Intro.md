@@ -1,5 +1,5 @@
 ---
-title: 'Audience Intelligence'
+title: 'Audience Intelligence Intro'
 categories: ['audience intelligence']
 tags: ['essai']
 ---

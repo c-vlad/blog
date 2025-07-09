@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on C Vlad</title>
-    <link>https://c-vlad.github.io/blog/categories/</link>
+    <link>http://localhost:1313/blog/categories/</link>
     <description>Recent content in Categories on C Vlad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://c-vlad.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audience Intelligence</title>
-      <link>https://c-vlad.github.io/blog/categories/audience-intelligence/</link>
+      <link>http://localhost:1313/blog/categories/audience-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://c-vlad.github.io/blog/categories/audience-intelligence/</guid>
+      <guid>http://localhost:1313/blog/categories/audience-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Leadership</title>
-      <link>https://c-vlad.github.io/blog/categories/leadership/</link>
+      <link>http://localhost:1313/blog/categories/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://c-vlad.github.io/blog/categories/leadership/</guid>
+      <guid>http://localhost:1313/blog/categories/leadership/</guid>
       <description></description>
     </item>
   </channel>

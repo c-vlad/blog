@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://c-vlad.github.io/blog/articles/</loc>
+    <loc>http://localhost:1313/blog/articles/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/articles/audience-intelligence/audience-intelligence/</loc>
+    <loc>http://localhost:1313/blog/articles/audience-intelligence/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/categories/audience-intelligence/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/Leadership/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/categories/</loc>
+    <loc>http://localhost:1313/blog/notes/leadership/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/tags/essai/</loc>
+    <loc>http://localhost:1313/blog/notes/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/articles/leadership/from-ic-to-leader/</loc>
+    <loc>http://localhost:1313/blog/categories/audience-intelligence/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/categories/leadership/</loc>
+    <loc>http://localhost:1313/blog/articles/audience-intelligence/audience-intelligence-intro/</loc>
   </url><url>
-    <loc>https://c-vlad.github.io/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/essai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/articles/leadership/from-ic-to-leader/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/leadership/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/</loc>
   </url>
 </urlset>

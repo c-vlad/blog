@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on C Vlad</title>
-    <link>http://localhost:1313/blog/categories/leadership/</link>
+    <link>http://localhost:1313/blog/?Leadership?/</link>
     <description>Recent content in Leadership on C Vlad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/blog/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/?Leadership?/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From IC to Manager</title>
       <link>http://localhost:1313/blog/articles/leadership/from-ic-to-leader/</link>

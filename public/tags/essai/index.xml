@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essai on C Vlad</title>
-    <link>https://c-vlad.github.io/blog/tags/essai/</link>
+    <link>http://localhost:1313/blog/tags/essai/</link>
     <description>Recent content in Essai on C Vlad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://c-vlad.github.io/blog/tags/essai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/essai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audience Intelligence</title>
-      <link>https://c-vlad.github.io/blog/articles/audience-intelligence/audience-intelligence/</link>
+      <link>http://localhost:1313/blog/articles/audience-intelligence/audience-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://c-vlad.github.io/blog/articles/audience-intelligence/audience-intelligence/</guid>
+      <guid>http://localhost:1313/blog/articles/audience-intelligence/audience-intelligence/</guid>
       <description>&lt;h2 id=&#34;audience-intelligence&#34;&gt;&#xA;  &lt;strong&gt;Audience Intelligence&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#audience-intelligence&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Understanding the behaviors, preferences, and profiles behind the numbers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-audience-intelligence&#34;&gt;&#xA;  &lt;strong&gt;What is Audience Intelligence?&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-is-audience-intelligence&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Audience Intelligence is the process of gathering, integrating, and analyzing data from diverse sources to build a detailed understanding of real-world audience segments. These insights enable organizations to make informed decisions about communication, marketing, product design, and strategic positioning.&lt;/p&gt;&#xA;&lt;p&gt;Data can come from a wide variety of sources, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Social media activity (e.g., posts, likes, follows)&lt;/p&gt;</description>
     </item>
     <item>
       <title>From IC to Manager</title>
-      <link>https://c-vlad.github.io/blog/articles/leadership/from-ic-to-leader/</link>
+      <link>http://localhost:1313/blog/articles/leadership/from-ic-to-leader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://c-vlad.github.io/blog/articles/leadership/from-ic-to-leader/</guid>
+      <guid>http://localhost:1313/blog/articles/leadership/from-ic-to-leader/</guid>
       <description>&lt;h1 id=&#34;being-brilliant-wont-make-you-a-good-leader&#34;&gt;&#xA;  Being Brilliant Won’t Make You a Good Leader&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#being-brilliant-wont-make-you-a-good-leader&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;In the early days of my career, the mission was clear: contribute, solve, produce. The way to succeed was through output, and the way to feel valuable was by being the one who &lt;em&gt;figured it out&lt;/em&gt;. The job, unofficially, was to be brilliant. To know. To have good instincts. To deliver results directly.&lt;/p&gt;&#xA;&lt;p&gt;And if I’m honest, I enjoyed that clarity. The rush of solving a hard problem late at night. The satisfaction of being the one who unblocked a project. The little ego boost of being someone people came to with tough questions. It felt good to be sharp. It felt good to matter.&lt;/p&gt;</description>
     </item>
   </channel>
