@@ -18,6 +18,11 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Clean Hugo cache
+        run: |
+          rm -rf public/
+          rm -rf resources/_gen
+          
       - name: Build the website
         run: hugo --minify
         env:
