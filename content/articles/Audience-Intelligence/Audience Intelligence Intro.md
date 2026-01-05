@@ -2,6 +2,7 @@
 title: 'Audience Intelligence Intro'
 categories: ['audience intelligence']
 tags: ['essai']
+weight: 1
 ---
 
 ## **Audience Intelligence**
