@@ -20,6 +20,8 @@ jobs:
 
       - name: Build the website
         run: hugo --minify
+        env:
+          HUGO_PROJECT: "false"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
