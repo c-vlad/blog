@@ -23,6 +23,9 @@ jobs:
         env:
           HUGO_PROJECT: "false"
 
+      - name: Copy CNAME
+        run: cp CNAME public/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
