@@ -9,7 +9,6 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
-categories: ['audience intelligence']
 ---
 
 # **5 Layer 3 — Activation Intelligence**
