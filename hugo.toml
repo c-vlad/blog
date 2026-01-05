@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Cristian Vlad'
 canonifyURLs = true                          # forces absolute URLs
 relativeURLs = false                         # optional, avoid relative links
+extended: true
 
 theme = "book"
 

@@ -29,6 +29,11 @@ jobs:
       - name: Copy CNAME
         run: cp CNAME public/CNAME
 
+      - name: Check Hugo build files
+        run: |
+          echo "Listing public/:"
+          ls -lR public/
+    
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
