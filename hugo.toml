@@ -10,6 +10,7 @@ theme = "book"
 articles = "/:slug/"   # Generates /article-name/ instead of /blog/article-name/
 
 [params]
+  project = false
   BookTheme = "light"
   BookToC = true
   BookSection = "*"
