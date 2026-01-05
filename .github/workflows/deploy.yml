@@ -22,11 +22,9 @@ jobs:
         run: |
           rm -rf public/
           rm -rf resources/_gen
-          
+
       - name: Build the website
         run: hugo --minify
-        env:
-          HUGO_PROJECT: "false"
 
       - name: Copy CNAME
         run: cp CNAME public/CNAME
