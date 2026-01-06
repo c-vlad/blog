@@ -1,7 +1,5 @@
 ---
 title: "The Intelligence Gap"
-type: "series"
-layout: "single"
 toc: true
 weight: 1
 bookCollapseSection: true

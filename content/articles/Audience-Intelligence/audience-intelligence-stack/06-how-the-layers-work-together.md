@@ -1,7 +1,5 @@
 ---
 title: "How the Layers Work Together"
-type: "series"
-layout: "single"
 toc: true
 weight: 7
 bookCollapseSection: true

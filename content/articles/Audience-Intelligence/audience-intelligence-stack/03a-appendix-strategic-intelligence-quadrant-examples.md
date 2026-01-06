@@ -1,7 +1,5 @@
 ---
 title: "Layer 1 Appendix — Strategic Intelligence Quadrant Examples"
-type: "series"
-layout: "single"
 toc: true
 weight: 4
 bookCollapseSection: true

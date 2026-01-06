@@ -1,7 +1,5 @@
 ---
 title: "Introducing the Stack"
-type: "series"
-layout: "single"
 toc: true
 weight: 2
 bookCollapseSection: true

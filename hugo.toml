@@ -6,8 +6,8 @@ relativeURLs = false                         # optional, avoid relative links
 
 theme = "book"
 
-[permalinks]
-articles = "/:slug/"   # Generates /article-name/ instead of /blog/article-name/
+# [permalinks]
+# articles = "/:slug/"   # Generates /article-name/ instead of /blog/article-name/
 
 [params]
   project = false

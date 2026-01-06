@@ -95,14 +95,14 @@ No single layer is sufficient. All three working together create sustainable com
 
 ## Table of Contents
 
-1. [The Intelligence Gap](01-the-intelligence-gap/) - Understanding the problem
-2. [Introducing the Stack](02-introducing-the-stack/) - The three-layer framework
-3. [Strategic Intelligence](03-strategic-intelligence/) - Who are you competing with?
-   [Strategic Intelligence Appendices](03a-strategic-intelligence-quadrant-examples/) - Strategic intelligence quadrant examples
-4. [Pattern Intelligence](04-pattern-intelligence/) - Why do audiences choose?
-5. [Activation Intelligence](05-activation-intelligence/) - How do you reach them?
-6. [How the Layers Work Together](06-how-the-layers-work-together/) - Integration and workflow
-7. [Conclusion](07-closing-the-intelligence-advantage/) - The intelligence advantage
+1.  [The Intelligence Gap](01-the-intelligence-gap/) - Understanding the problem
+2.  [Introducing the Stack](02-introducing-the-stack/) - The three-layer framework
+3.  [Strategic Intelligence](03-strategic-intelligence/) - Who are you competing with?
+3a. [Strategic Intelligence Appendices](03a-strategic-intelligence-quadrant-examples/) - Strategic intelligence quadrant examples
+4.  [Pattern Intelligence](04-pattern-intelligence/) - Why do audiences choose?
+5.  [Activation Intelligence](05-activation-intelligence/) - How do you reach them?
+6.  [How the Layers Work Together](06-how-the-layers-work-together/) - Integration and workflow
+7.  [Conclusion](07-closing-the-intelligence-advantage/) - The intelligence advantage
 
 ---
 

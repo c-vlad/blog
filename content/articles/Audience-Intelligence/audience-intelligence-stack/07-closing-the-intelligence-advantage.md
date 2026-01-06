@@ -1,7 +1,5 @@
 ---
 title: "Closing"
-type: "series"
-layout: "single"
 toc: true
 weight: 8
 bookCollapseSection: true

@@ -1,7 +1,5 @@
 ---
 title: "Layer 1 — Strategic Intelligence"
-type: "series"
-layout: "single"
 toc: true
 weight: 3
 bookCollapseSection: true

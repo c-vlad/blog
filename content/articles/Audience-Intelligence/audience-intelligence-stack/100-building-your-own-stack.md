@@ -1,7 +1,5 @@
 ---
 title: "Building Your Own Stack"
-type: "series"
-layout: "single"
 toc: true
 weight: 8
 bookCollapseSection: true

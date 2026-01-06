@@ -1,7 +1,5 @@
 ---
 title: "Layer 2 — Psychographic Intelligence"
-type: "series"
-layout: "single"
 toc: true
 weight: 5
 bookCollapseSection: true

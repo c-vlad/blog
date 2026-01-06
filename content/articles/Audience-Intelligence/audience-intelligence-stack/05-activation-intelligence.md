@@ -1,7 +1,5 @@
 ---
 title: "Layer 3 — Activation Intelligence"
-type: "series"
-layout: "single"
 toc: true
 weight: 6
 bookCollapseSection: true
