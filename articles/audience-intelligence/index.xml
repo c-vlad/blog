@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audience Intelligence on The Intelligence Layer</title><link>https://www.c-vlad.com/articles/audience-intelligence/</link><description>Recent content in Audience Intelligence on The Intelligence Layer</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://www.c-vlad.com/articles/audience-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>Audience Intelligence Intro</title><link>https://www.c-vlad.com/articles/audience-intelligence/audience-intelligence-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.c-vlad.com/articles/audience-intelligence/audience-intelligence-intro/</guid><description>&lt;h2 id="audience-intelligence"&gt;
+ &lt;strong&gt;Audience Intelligence&lt;/strong&gt;
+ &lt;a class="anchor" href="#audience-intelligence"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Understanding the behaviors, preferences, and profiles behind the numbers&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="what-is-audience-intelligence"&gt;
+ &lt;strong&gt;What is Audience Intelligence?&lt;/strong&gt;
+ &lt;a class="anchor" href="#what-is-audience-intelligence"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Audience Intelligence is the process of gathering, integrating, and analyzing data from diverse sources to build a detailed understanding of real-world audience segments. These insights enable organizations to make informed decisions about communication, marketing, product design, and strategic positioning.&lt;/p&gt;
+&lt;p&gt;Data can come from a wide variety of sources, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Social media activity (e.g. posts, likes, follows)&lt;/p&gt;</description></item><item><title>Scaling Lift</title><link>https://www.c-vlad.com/articles/audience-intelligence/scaling-lift/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.c-vlad.com/articles/audience-intelligence/scaling-lift/</guid><description>&lt;h1 id="estimating-overlap-in-scaled-audiences-a-principled-approach-using-i-projection"&gt;
+ Estimating Overlap in Scaled Audiences: A Principled Approach Using I-Projection
+ &lt;a class="anchor" href="#estimating-overlap-in-scaled-audiences-a-principled-approach-using-i-projection"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="introduction"&gt;
+ Introduction
+ &lt;a class="anchor" href="#introduction"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;In Audience Intelligence, we often rely on observed data from a panel-collected via social media platforms, user devices, surveys, or third-party measurement providers-to understand behaviors and affinities across different audience segments.&lt;/p&gt;
+&lt;p&gt;Suppose we observe:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt;: An audience segment of interest (e.g. people who follow a brand or visited a website)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt;: A second audience (e.g. people who engaged with a product, followed an influencer, or purchased a category)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;I&lt;/strong&gt;: The observed overlap between A and B in the panel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From other data sources (e.g. CRM systems, census data, digital reach estimates), we might know:&lt;/p&gt;</description></item><item><title>Estimating lift in small panel longitudinal studies</title><link>https://www.c-vlad.com/articles/audience-intelligence/estimating-lift-in-small-panel-longitudinal-studies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.c-vlad.com/articles/audience-intelligence/estimating-lift-in-small-panel-longitudinal-studies/</guid><description>&lt;h1 id="handling-small-panels-and-zero-observations-in-longitudinal-audience-intelligence-studies"&gt;
+ Handling Small Panels and Zero Observations in Longitudinal Audience Intelligence Studies
+ &lt;a class="anchor" href="#handling-small-panels-and-zero-observations-in-longitudinal-audience-intelligence-studies"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="introduction"&gt;
+ Introduction
+ &lt;a class="anchor" href="#introduction"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;In longitudinal audience intelligence studies-where audience sizes (&lt;code&gt;A_m&lt;/code&gt;), variable sizes (&lt;code&gt;B_m&lt;/code&gt;), and their intersections (&lt;code&gt;I_m&lt;/code&gt;) are tracked month-to-month-small panel sizes introduce critical challenges. These include unreliable estimates, zero or missing counts, and high variance in calculated overlap metrics. Without proper statistical treatment, naive extrapolation of intersection sizes can produce unstable or misleading results.&lt;/p&gt;
+&lt;p&gt;This article discusses the statistical issues that arise in such contexts and explores principled approaches to robust estimation, focusing on computationally efficient techniques suitable for large-scale and time-sensitive settings.&lt;/p&gt;</description></item></channel></rss>
