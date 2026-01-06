@@ -4,7 +4,7 @@ description: "A comprehensive framework for transforming audience data into stra
 type: "series"
 layout: "single"
 toc: true
-weight: 1
+weight: 100
 bookCollapseSection: true
 bookFlatSection: false
 bookHidden: false
