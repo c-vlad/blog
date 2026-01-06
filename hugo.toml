@@ -15,7 +15,8 @@ theme = "book"
   BookToC = true
   BookSection = "*"
  # BookLogo = "/images/AudienceIntelligence.png"
-  BookLogo = "/images/TheIntelligenceLayer.png
+  BookLogo = "/images/TheIntelligenceLayer.png"
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
