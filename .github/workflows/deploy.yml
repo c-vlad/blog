@@ -36,7 +36,10 @@ jobs:
           ls -lR public/
     
       - name: Check Hugo Params
-        run: hugo config | grep project
+        run: hugo config
+
+      - name: Debug Hugo config
+        run: hugo --printConfig | head -200
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
