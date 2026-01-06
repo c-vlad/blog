@@ -1,15 +1,14 @@
----
+
 title: 'Estimating lift in small panel longitudinal studies'
 categories: ['audience intelligence']
 tags: ['essai']
 weight: 3
----
 
 # Handling Small Panels and Zero Observations in Longitudinal Audience Intelligence Studies
 
 ## Introduction
 
-In longitudinal audience intelligence studies—where audience sizes (`A_m`), variable sizes (`B_m`), and their intersections (`I_m`) are tracked month-to-month—small panel sizes introduce critical challenges. These include unreliable estimates, zero or missing counts, and high variance in calculated overlap metrics. Without proper statistical treatment, naive extrapolation of intersection sizes can produce unstable or misleading results.
+In longitudinal audience intelligence studies-where audience sizes (`A_m`), variable sizes (`B_m`), and their intersections (`I_m`) are tracked month-to-month-small panel sizes introduce critical challenges. These include unreliable estimates, zero or missing counts, and high variance in calculated overlap metrics. Without proper statistical treatment, naive extrapolation of intersection sizes can produce unstable or misleading results.
 
 This article discusses the statistical issues that arise in such contexts and explores principled approaches to robust estimation, focusing on computationally efficient techniques suitable for large-scale and time-sensitive settings.
 
@@ -20,7 +19,7 @@ This article discusses the statistical issues that arise in such contexts and ex
 Consider monthly observations of:
 
 - Audience sizes \(A_m\),
-- Variable sizes \(B_m\) (e.g., products, influencers),
+- Variable sizes \(B_m\) (e.g. products, influencers),
 - Intersection sizes \(I_m\) (audience engaging with the variable),
 
 over months \(m = 1, 2, \ldots, M\).
@@ -31,7 +30,7 @@ When panel sizes are small, especially for niche audiences or less popular varia
 - Observed \(\theta_m\) (the odds ratio representing dependence) becomes undefined or unstable.
 - Month-to-month fluctuations can be dominated by noise rather than signal.
 
-Such issues undermine downstream analyses, e.g., when estimating future intersection \(I'_m\) based on extrapolated \(A'_m, B'_m\).
+Such issues undermine downstream analyses, e.g. when estimating future intersection \(I'_m\) based on extrapolated \(A'_m, B'_m\).
 
 
 
@@ -62,7 +61,7 @@ A hierarchical log-linear model jointly models each month's 2×2 contingency tab
 
 **Pros:**  
 - Simple, scalable, fast.  
-- Uses domain knowledge (e.g., category priors).  
+- Uses domain knowledge (e.g. category priors).  
 - Smooths the \(B_m\) time series for more stable downstream estimates.
 
 **Cons:**  
@@ -135,7 +134,7 @@ This approach blends the strengths of the above, offering a computationally ligh
 
 #### Why This Works
 
-- The shrinkage weight \(w_m\) adapts to data quality — months with little data get shrunk strongly to global prior \(\hat{\mu}\), stable months remain close to their observed \(\log \hat{\theta}_m\).
+- The shrinkage weight \(w_m\) adapts to data quality - months with little data get shrunk strongly to global prior \(\hat{\mu}\), stable months remain close to their observed \(\log \hat{\theta}_m\).
 - This **adaptive smoothing** reduces erratic month-to-month jumps, yielding smooth, plausible estimates.
 - It preserves the logical constraints inherent to odds ratios and intersections.
 - It’s **fast** and simple to implement, requiring only moment estimates and the closed-form formula for \(I_m\).
@@ -148,7 +147,7 @@ This approach blends the strengths of the above, offering a computationally ligh
 
 While exact variance derivation requires detailed multinomial/hypergeometric calculations, reasonable approximations suffice in practice:
 
-- Use \( \sigma_m^2 \approx \frac{1}{I_m + c} \), with \(c\) a small constant (e.g., 1), reflecting that more overlap observations reduce variance.
+- Use \( \sigma_m^2 \approx \frac{1}{I_m + c} \), with \(c\) a small constant (e.g. 1), reflecting that more overlap observations reduce variance.
 - Alternatively, use the delta method for the variance of a ratio if counts are sufficiently large.
 
 ### Handling Missing or Zero \(B_m\)
@@ -175,7 +174,7 @@ Longitudinal studies of audience intersections in small panels face significant 
 
 Empirical Bayes shrinkage of odds ratios offers a practical, computationally light alternative that stabilizes month-to-month estimates, accommodates zero and missing counts, and maintains principled coherence with underlying statistical structure.
 
-This approach allows data scientists and analysts in audience intelligence to produce smooth, reliable intersection estimates critical for accurate insight and decision making—even under severe data sparsity constraints.
+This approach allows data scientists and analysts in audience intelligence to produce smooth, reliable intersection estimates critical for accurate insight and decision making-even under severe data sparsity constraints.
 
 
 

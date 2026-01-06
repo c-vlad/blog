@@ -1,6 +1,6 @@
 baseURL = 'https://www.c-vlad.com/'
 languageCode = 'en-us'
-title = 'Cristian Vlad'
+title = 'The Intelligence Layer'
 canonifyURLs = true                          # forces absolute URLs
 relativeURLs = false                         # optional, avoid relative links
 
@@ -14,8 +14,8 @@ theme = "book"
   BookTheme = "light"
   BookToC = true
   BookSection = "*"
-  BookLogo = "/images/AudienceIntelligence.png"
-
+ # BookLogo = "/images/AudienceIntelligence.png"
+  BookLogo = "/images/TheIntelligenceLayer.png
 [markup]
   [markup.goldmark.renderer]
     unsafe = true

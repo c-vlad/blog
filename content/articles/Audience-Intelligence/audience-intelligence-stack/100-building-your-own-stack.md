@@ -1,4 +1,4 @@
----
+
 title: "Building Your Own Stack"
 toc: true
 weight: 8
@@ -7,15 +7,13 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 draft: true
----
 
 # **Building Your Own Stack**
 
----
 
 ### **1 From Framework to Practice**
 
-The Audience Intelligence Stack — Strategic, Psychographic, and Activation Intelligence working together — creates a powerful competitive advantage. But it only works if you can actually build it.
+The Audience Intelligence Stack - Strategic, Psychographic, and Activation Intelligence working together - creates a powerful competitive advantage. But it only works if you can actually build it.
 
 This section provides practical guidance on:
 
@@ -29,13 +27,11 @@ This section provides practical guidance on:
 
 **The key principle:** It's better to have **imperfect intelligence that informs decisions** than perfect data that never gets used.
 
----
 
 ### **2 What Data Do You Actually Need?**
 
 The Audience Intelligence Stack requires different data for each layer:
 
----
 
 #### **For Layer 1: Strategic Intelligence**
 
@@ -60,7 +56,6 @@ The Audience Intelligence Stack requires different data for each layer:
 * Time-series data showing how overlaps change  
 * Competitive intelligence on multiple competitors simultaneously
 
----
 
 #### **For Layer 2: Psychographic Intelligence**
 
@@ -85,7 +80,6 @@ The Audience Intelligence Stack requires different data for each layer:
 * Content consumption patterns (what they read, watch, listen to)  
 * Platform-specific behavior (what they do on Twitter vs. Instagram vs. Pinterest)
 
----
 
 #### **For Layer 3: Activation Intelligence**
 
@@ -111,13 +105,11 @@ The Audience Intelligence Stack requires different data for each layer:
 * A/B test results on messaging, creative, offers  
 * Cohort analysis (how different segments respond to different tactics)
 
----
 
 ### **3 Where to Get This Data**
 
 You don't need to build everything from scratch. Multiple data sources exist at different price points.
 
----
 
 #### **Option 1: Social Listening & Audience Analysis Tools**
 
@@ -146,7 +138,6 @@ You don't need to build everything from scratch. Multiple data sources exist at 
 
 **Best for:** Getting started quickly without building infrastructure
 
----
 
 #### **Option 2: First-Party Data Analysis**
 
@@ -176,7 +167,6 @@ You don't need to build everything from scratch. Multiple data sources exist at 
 
 **Best for:** Deep understanding of existing customers; validating insights from third-party tools
 
----
 
 #### **Option 3: Hybrid Approach (Recommended)**
 
@@ -206,13 +196,11 @@ You don't need to build everything from scratch. Multiple data sources exist at 
 * You're not dependent on any single data source  
 * Lower cost than enterprise-only approach
 
----
 
 ### **4 Starting Simple: The Minimum Viable Intelligence Stack**
 
 You don't need perfect data to start building intelligence. Here's how to begin with minimal resources:
 
----
 
 #### **Week 1-2: Strategic Intelligence Foundation**
 
@@ -249,7 +237,6 @@ You don't need perfect data to start building intelligence. Here's how to begin 
 * List of non-competitors to stop worrying about  
 * High-conviction decisions on where to focus competitive energy
 
----
 
 #### **Week 3-4: Psychographic Intelligence Foundation**
 
@@ -285,7 +272,6 @@ You don't need perfect data to start building intelligence. Here's how to begin 
 * Understanding of cross-category interests  
 * Initial hypotheses about what drives decisions
 
----
 
 #### **Week 5-6: Activation Intelligence Foundation**
 
@@ -321,7 +307,6 @@ You don't need perfect data to start building intelligence. Here's how to begin 
 * Initial influencer/partnership targets (who are customers discovering you through?)  
 * Foundation for optimization
 
----
 
 **Total time investment for minimum viable stack: 25-35 hours over 6 weeks**
 
@@ -335,13 +320,11 @@ You don't need perfect data to start building intelligence. Here's how to begin 
 
 **This is imperfect intelligence, but it's infinitely better than gut feeling and assumptions.**
 
----
 
 ### **5 Scaling Over Time**
 
 Once you have the minimum viable stack, you can scale systematically:
 
----
 
 #### **Months 3-6: Deepen Intelligence**
 
@@ -367,7 +350,6 @@ Once you have the minimum viable stack, you can scale systematically:
 
 **Investment:** 10-20 hours/month \+ $500-2K/month in tools
 
----
 
 #### **Months 6-12: Systematize Intelligence**
 
@@ -387,7 +369,6 @@ Once you have the minimum viable stack, you can scale systematically:
 
 **Investment:** 20-30 hours/month \+ $2-5K/month in tools \+ potential analyst hire
 
----
 
 #### **Year 2+: Continuous Intelligence System**
 
@@ -401,13 +382,11 @@ Once you have the minimum viable stack, you can scale systematically:
 
 **This is when the Audience Intelligence Stack becomes competitive advantage, not just a tool.**
 
----
 
 ### **6 Common Pitfalls to Avoid**
 
 Building the stack is straightforward, but there are predictable failure modes:
 
----
 
 #### **Pitfall 1: Analysis Paralysis**
 
@@ -423,7 +402,6 @@ Building the stack is straightforward, but there are predictable failure modes:
 
 **Example:** StrideRecover could have spent 6 months perfectly analyzing the compression gear market. Instead, they made a decision with good-enough intelligence, launched in 9 months, and learned from real-world results.
 
----
 
 #### **Pitfall 2: Collecting Data Without Using It**
 
@@ -439,7 +417,6 @@ Building the stack is straightforward, but there are predictable failure modes:
 
 **Example:** Don't build "The Complete Audience Intelligence Dashboard" first. Start with "Should we expand to compression gear? What does the audience data tell us?"
 
----
 
 #### **Pitfall 3: Ignoring Qualitative Signals**
 
@@ -453,9 +430,8 @@ Building the stack is straightforward, but there are predictable failure modes:
 * Customer interviews reveal motivations that surveys miss  
 * Small sample qualitative can change interpretation of large sample quantitative
 
-**Example:** Affinity data shows StrideRecover audience has 100x affinity for premium mattresses. But *why*? Customer interviews reveal "recovery at home" and "sleep is when body heals" — this reframes the entire opportunity.
+**Example:** Affinity data shows StrideRecover audience has 100x affinity for premium mattresses. But *why*? Customer interviews reveal "recovery at home" and "sleep is when body heals" - this reframes the entire opportunity.
 
----
 
 #### **Pitfall 4: Treating Intelligence as Static**
 
@@ -470,7 +446,6 @@ Building the stack is straightforward, but there are predictable failure modes:
 * Annual deep-dive refresh of full intelligence stack  
 * Build "what changed?" into every intelligence review
 
----
 
 #### **Pitfall 5: Optimizing Tactics Without Strategic Foundation**
 
@@ -484,13 +459,11 @@ Building the stack is straightforward, but there are predictable failure modes:
 * If you're already doing activation, retrofit Strategic and Psychographic Intelligence  
 * Question every tactic: "Does this align with who we're competing with and why our audience chooses?"
 
----
 
 ### **7 When You Don't Have Perfect Data**
 
 What if you can't access ideal data sources? Here are workarounds:
 
----
 
 #### **Challenge: "We don't have social media following"**
 
@@ -501,7 +474,6 @@ What if you can't access ideal data sources? Here are workarounds:
 * Look at your competitors' audiences and infer overlap  
 * Start building social presence specifically to gather audience intelligence
 
----
 
 #### **Challenge: "We can't afford expensive tools"**
 
@@ -512,7 +484,6 @@ What if you can't access ideal data sources? Here are workarounds:
 * Academic approach: Find published research on your category's audience  
 * Partner with agencies or consultants who have tool access (one-time projects vs. subscriptions)
 
----
 
 #### **Challenge: "Our sample size is too small"**
 
@@ -523,7 +494,6 @@ What if you can't access ideal data sources? Here are workarounds:
 * Start with hypotheses, then validate with even small samples  
 * As you grow, continuously refine intelligence with larger samples
 
----
 
 #### **Challenge: "We operate in B2B, not B2C"**
 
@@ -534,7 +504,6 @@ What if you can't access ideal data sources? Here are workarounds:
 * Activation Intelligence: Which channels reach B2B buyers effectively?  
 * LinkedIn is particularly valuable for B2B audience intelligence
 
----
 
 #### **Challenge: "Privacy regulations limit our data access"**
 
@@ -546,7 +515,6 @@ What if you can't access ideal data sources? Here are workarounds:
 * Focus on public social data (who follows whom publicly)  
 * Remember: You don't need individual tracking to understand aggregate audience patterns
 
----
 
 ### **8 Getting Started: Your First 30 Days**
 
@@ -577,7 +545,6 @@ What if you can't access ideal data sources? Here are workarounds:
 
 **If that decision works better than gut feeling, you've proven the value. Scale from there.**
 
----
 
 ### **9 The North Star: Intelligence-Driven Culture**
 
@@ -595,7 +562,7 @@ The ultimate goal isn't just having data or tools. It's building a culture where
 
 * "Influencer X has 35% audience overlap with us and their audience shows 40x affinity for our category. Let's test."  
 * "Our audience shows 83x affinity for Category Y at 23% reach, with strong overlap in Segments A and B. Expansion makes strategic sense."  
-* "Brand Z has only 8% audience overlap. They're not our competitor. Brand W has 42% overlap with 2.5x affinity — that's who we should watch."
+* "Brand Z has only 8% audience overlap. They're not our competitor. Brand W has 42% overlap with 2.5x affinity - that's who we should watch."
 
 **The shift:**
 

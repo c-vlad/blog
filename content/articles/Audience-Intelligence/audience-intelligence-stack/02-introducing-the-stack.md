@@ -1,4 +1,4 @@
----
+
 title: "Introducing the Stack"
 toc: true
 weight: 2
@@ -7,7 +7,6 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
----
 
 # **2 Introducing the Stack**
 
@@ -20,7 +19,7 @@ Most marketing teams operate with a single, undifferentiated notion of "audience
 The Audience Intelligence Stack separates audience understanding into three distinct layers, each with its own analytical methods, data requirements, and strategic applications:
 
 | Layer                                | Meaning              | Core Question                       | Explanation                                                                                                                                                |
-| ------------------------------------ | -------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  | -- | -- | - |
 | **Layer 3: Activation Intelligence** | **HOW (Tactical)**   | “How do we reach and move them?”    | Focuses on execution: channels, messaging, campaigns, offers, and timing. Turns insights into actions that persuade people to notice, care, and respond.   |
 | **Layer 2: Psychographic Intelligence**    | **WHY (Analytical)** | “What do they care about and why?”  | Analyzes motivations, behaviors, and trends to reveal the drivers behind decisions. Not just what people do, but why they do it.                           |
 | **Layer 1: Strategic Intelligence**  | **WHO (Strategic)**  | “Who are we really competing with?” | Defines the true competitive landscape (direct rivals, substitutes, the status quo, and internal constraints) to shape positioning and long-term strategy. |

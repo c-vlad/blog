@@ -1,23 +1,22 @@
----
+
 title: 'Scaling Lift'
 categories: ['audience intelligence']
 tags: ['essai']
 weight: 2
----
 
 # Estimating Overlap in Scaled Audiences: A Principled Approach Using I-Projection
 
 ## Introduction
 
-In Audience Intelligence, we often rely on observed data from a panel—collected via social media platforms, user devices, surveys, or third-party measurement providers—to understand behaviors and affinities across different audience segments. 
+In Audience Intelligence, we often rely on observed data from a panel-collected via social media platforms, user devices, surveys, or third-party measurement providers-to understand behaviors and affinities across different audience segments. 
 
 Suppose we observe:
 
-- **A**: An audience segment of interest (e.g., people who follow a brand or visited a website)
-- **B**: A second audience (e.g., people who engaged with a product, followed an influencer, or purchased a category)
+- **A**: An audience segment of interest (e.g. people who follow a brand or visited a website)
+- **B**: A second audience (e.g. people who engaged with a product, followed an influencer, or purchased a category)
 - **I**: The observed overlap between A and B in the panel
 
-From other data sources (e.g., CRM systems, census data, digital reach estimates), we might know:
+From other data sources (e.g. CRM systems, census data, digital reach estimates), we might know:
 
 - **A′**: The estimated true size of audience A in the full population
 - **B′**: The estimated true size of audience B in the full population
@@ -26,11 +25,10 @@ We then wish to estimate:
 
 - **I′**: The *expected intersection* between A′ and B′ in the full population, consistent with the original observed relationship between A and B.
 
-This extrapolation is not straightforward: naive methods (like linear scaling or assuming independence) can produce invalid results (e.g., \(I′ > \min(A′, B′)\)) or ignore the statistical dependencies in the observed data.
+This extrapolation is not straightforward: naive methods (like linear scaling or assuming independence) can produce invalid results (e.g. \(I′ > \min(A′, B′)\)) or ignore the statistical dependencies in the observed data.
 
-We propose a **principled**, **smooth**, and **closed-form** solution based on **information theory**—specifically, the **I-projection** or **minimum-KL divergence projection**.
+We propose a **principled**, **smooth**, and **closed-form** solution based on **information theory**-specifically, the **I-projection** or **minimum-KL divergence projection**.
 
----
 
 ## Problem Definition
 
@@ -43,7 +41,6 @@ Let:
 
 We assume that the joint distribution of the binary variables "in A" and "in B" is preserved in a certain statistical sense when we move from the panel to the full population.
 
----
 
 ## Method: KL-Minimizing I-Projection
 
@@ -93,7 +90,6 @@ Pick the root within the valid bounds:
 \max(0, A′ + B′ - P) \le I′ \le \min(A′, B′)
 \]
 
----
 
 ## Why This Works
 
@@ -106,7 +102,6 @@ This method:
 
 This approach is equivalent to finding the **maximum entropy** estimate under fixed marginals and interaction, or solving for the **I-projection** in a log-linear model with fixed marginals.
 
----
 
 ## Example
 
@@ -126,18 +121,16 @@ Then:
 
 2. Plug into the quadratic to find \( I′ \)
 
----
 
 ## Applications
 
-- Estimating affinities in large audiences (e.g., affinity between brand audiences and interest groups)
+- Estimating affinities in large audiences (e.g. affinity between brand audiences and interest groups)
 - Adjusting panel-based co-occurrence data to population-scale insights
 - Media planning and reach overlap estimation
 - Lookalike modeling or campaign targeting evaluation
 
----
 
 ## Conclusion
 
-By modeling audience intersection scaling as an **I-projection**, we achieve a principled, mathematically sound, and interpretable method for estimating audience overlaps. This approach respects observed statistical structure while adjusting for new population marginals—critical for accurate, large-scale Audience Intelligence.
+By modeling audience intersection scaling as an **I-projection**, we achieve a principled, mathematically sound, and interpretable method for estimating audience overlaps. This approach respects observed statistical structure while adjusting for new population marginals, critical for accurate, large-scale Audience Intelligence.
 

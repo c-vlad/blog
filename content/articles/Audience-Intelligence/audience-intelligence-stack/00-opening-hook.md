@@ -1,4 +1,4 @@
----
+
 title: "Opening"
 type: "series"
 layout: "single"
@@ -9,7 +9,6 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 draft: true
----
 
 Every marketing team claims to "know their audience".
 
@@ -31,7 +30,7 @@ Teams often choose based on vanity metrics: follower counts, engagement rates, c
 
 **The silence after these questions reveals something important: there's a gap between having data and having intelligence.**
 
-Marketing teams are drowning in data. Website analytics, CRM systems, social media dashboards, survey platforms, market research reports — the volume is overwhelming. But data alone doesn't answer strategic questions. It doesn't reveal competitive dynamics, audience motivations, or tactical effectiveness.
+Marketing teams are drowning in data. Website analytics, CRM systems, social media dashboards, survey platforms, market research reports - the volume is overwhelming. But data alone doesn't answer strategic questions. It doesn't reveal competitive dynamics, audience motivations, or tactical effectiveness.
 
 **This is the Intelligence Gap**: the distance between raw data and actionable strategic insight.
 

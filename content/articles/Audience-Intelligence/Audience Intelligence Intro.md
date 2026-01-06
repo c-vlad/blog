@@ -1,9 +1,8 @@
----
+
 title: 'Audience Intelligence Intro'
 categories: ['audience intelligence']
 tags: ['essai']
 weight: 1
----
 
 ## **Audience Intelligence**
 
@@ -15,11 +14,11 @@ Audience Intelligence is the process of gathering, integrating, and analyzing da
 
 Data can come from a wide variety of sources, including:
 
-* Social media activity (e.g., posts, likes, follows)
+* Social media activity (e.g. posts, likes, follows)
 
-* Digital behavior (e.g., website visits, app usage, search)
+* Digital behavior (e.g. website visits, app usage, search)
 
-* Device signals (e.g., geolocation, mobile sensors)
+* Device signals (e.g. geolocation, mobile sensors)
 
 * Syndicated surveys and market research
 
@@ -39,7 +38,7 @@ Audience Intelligence lets us go beyond surface metrics like reach or impression
 
 * *How does engagement with health-related content differ by education level across the U.S.?*
 
-These insights can be highly granular — by segment, platform, time window — and are built on top of reconstructed or synthesized panels that mirror the structure of reality while preserving data utility.
+These insights can be highly granular - by segment, platform, time window - and are built on top of reconstructed or synthesized panels that mirror the structure of reality while preserving data utility.
 
 ### **Why It Matters**
 
@@ -49,7 +48,7 @@ Audience Intelligence is not just academic. It’s used to drive **business-crit
    Define who to target, where, when, and with what message. Identify the most receptive audiences and the best channels for activation.
 
 * **Brand Strategy**  
-   Understand who is engaging with your brand vs. your competitors — and why.
+   Understand who is engaging with your brand vs. your competitors - and why.
 
 * **Product Development**  
    Tailor offerings based on real behavioral signals, not just self-reported preferences.
@@ -76,7 +75,7 @@ While Audience Intelligence helps identify and understand target groups, **Media
 
 * Campaign follow-up and performance attribution
 
-In this portfolio, Media Intelligence is treated as a distinct (but connected) discipline — one that turns audience insights into **actionable media strategies**.
+In this portfolio, Media Intelligence is treated as a distinct (but connected) discipline - one that turns audience insights into **actionable media strategies**.
 
 ### **About This Section**
 
@@ -90,5 +89,5 @@ This section of the portfolio showcases work at the intersection of:
 
 * Constraint-based optimization
 
-The projects here aim to **reconstruct or enhance audience understanding** using real-world constraints and high-fidelity modeling — making abstract data both usable and truthful.
+The projects here aim to **reconstruct or enhance audience understanding** using real-world constraints and high-fidelity modeling - making abstract data both usable and truthful.
 
