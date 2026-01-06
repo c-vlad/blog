@@ -35,6 +35,9 @@ jobs:
           echo "Listing public/:"
           ls -lR public/
     
+      - name: Check Hugo Params
+        run: hugo config | grep project
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

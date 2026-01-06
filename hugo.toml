@@ -1,4 +1,4 @@
-baseURL = 'https://www.c-vlad.com/'
+baseURL = 'https://www.c-vlad.com/blog/'
 languageCode = 'en-us'
 title = 'Cristian Vlad'
 canonifyURLs = true                          # forces absolute URLs
@@ -10,11 +10,11 @@ theme = "book"
 articles = "/:slug/"   # Generates /article-name/ instead of /blog/article-name/
 
 [params]
-  project = false
+  project = true
   BookTheme = "light"
   BookToC = true
   BookSection = "*"
-  #BookLogo = "/images/logo.png"
+  BookLogo = "/images/AudienceIntelligence.png"
 
 [markup]
   [markup.goldmark.renderer]
