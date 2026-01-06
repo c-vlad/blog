@@ -1,4 +1,4 @@
-
+---
 title: "Layer 2 - Psychographic Intelligence"
 toc: true
 weight: 5
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **4 Layer 2 - Psychographic Intelligence**
 

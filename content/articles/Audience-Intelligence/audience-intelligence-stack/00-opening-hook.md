@@ -1,4 +1,4 @@
-
+---
 title: "Opening"
 type: "series"
 layout: "single"
@@ -9,6 +9,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 draft: true
+---
 
 Every marketing team claims to "know their audience".
 

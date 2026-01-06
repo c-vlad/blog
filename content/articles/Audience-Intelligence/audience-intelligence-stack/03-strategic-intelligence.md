@@ -1,4 +1,4 @@
-
+---
 title: "Layer 1 - Strategic Intelligence"
 toc: true
 weight: 3
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **3 Layer 1 - Strategic Intelligence**
 
@@ -260,7 +261,7 @@ Comfort equals ease and versatility. It means all-day wearability for classes, h
 Let me put this in stark relief:
 
 | Dimension | StrideRecover Audience | ComfyCasual Audience |
-| -- | -- | -- |
+| ----- | ----- | ----- |
 | **Age** | Gen X (35-55), 1.7x affinity, 47.5% reach | Gen Z (18-28), 1.3x affinity |
 | **Life Stage** | Married (1.5x, 61%), Children (1.5x, 50%), Employed (1.2x, 84%) | Students (1.5x), Single |
 | **Top Brand Affinities** | Brooks Running (31x, 30.7%), Saucony (44x, 18.2%), Boston Marathon (20x, 20.5%), Sports nutrition (83x, 23.1%), Whole Foods (5x, 30.1%) | McDonald's (4.6x), Disney (3.5x), Taylor Swift (1.7x), Doritos (7.8x), Pepsi (5.5x) |

@@ -1,4 +1,4 @@
-
+---
 title: "Closing"
 toc: true
 weight: 8
@@ -8,6 +8,7 @@ bookHidden: false
 date: 2026-01-02
 draft: false
 categories: ['audience intelligence']
+---
 
 # **The Intelligence Advantage**
 

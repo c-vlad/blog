@@ -1,4 +1,4 @@
-
+---
 title: "Building Your Own Stack"
 toc: true
 weight: 8
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 draft: true
+---
 
 # **Building Your Own Stack**
 

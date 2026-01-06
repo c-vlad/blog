@@ -1,4 +1,5 @@
 
+---
 title: "The Intelligence Gap"
 toc: true
 weight: 1
@@ -7,6 +8,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **1 The Intelligence Gap**
 

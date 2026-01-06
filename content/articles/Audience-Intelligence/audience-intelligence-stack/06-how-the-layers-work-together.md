@@ -1,4 +1,4 @@
-
+---
 title: "How the Layers Work Together"
 toc: true
 weight: 7
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **6 How the Layers Work Together**
 
@@ -210,7 +211,7 @@ Travel/Active Lifestyle:
 **Strategic fit by segment:**
 
 | Category | Dedicated Athletes | Family Managers | Comfort Seekers | Informed Citizens |
-| -- | -- | -- | -- | -- |
+| ----- | ----- | ----- | ----- | ----- |
 | Sports Nutrition | ✅✅✅ | ✅✅ | ✅ | ✅✅ |
 | Home Recovery | ✅ | ✅✅✅ | ✅✅✅ | ✅ |
 | Compression Gear | ✅✅✅ | ❌ | ❌ | ✅ |
@@ -218,7 +219,7 @@ Travel/Active Lifestyle:
 **Motivation alignment:**
 
 | Category | Performance Optimization | Holistic Wellness | Family Wellbeing | Evidence-Based |
-| -- | -- | -- | -- | -- |
+| ----- | ----- | ----- | ----- | ----- |
 | Sports Nutrition | ✅✅✅ | ✅✅ | ✅✅ | ✅✅✅ |
 | Home Recovery | ✅✅ | ✅✅✅ | ✅✅✅ | ✅✅ |
 | Compression Gear | ✅✅✅ | ✅ | ❌ | ✅✅✅ |
@@ -366,7 +367,7 @@ Travel/Active Lifestyle:
 **Launch feasibility comparison:**
 
 | Category | Investment | Time to Market | Activation Difficulty | Market Differentiation | Audience Breadth |
-| -- | -- | -- | -- | -- | -- |
+| ----- | ----- | ----- | ----- | ----- | ----- |
 | Sports Nutrition | $2M | 12-18 mo | Medium | Low | High (70%+) |
 | Home Recovery | $2.6M | 9-12 mo | High | High | Medium (60%) |
 | Compression Gear | $1.6M | 6-9 mo | Low | Low | Low (30%) |
@@ -379,7 +380,7 @@ Now we integrate insights from all three layers:
 **The options matrix:**
 
 | Category | Strategic Intelligence | Psychographic Intelligence | Activation Intelligence | Overall Assessment |
-| -- | -- | -- | -- | -- |
+| ----- | ----- | ----- | ----- | ----- |
 | **Sports Nutrition** | ✅ Broad audience overlap (83x, 23.1%) | ✅ Fits multiple segments and motivations | ⚠️ Competitive, long timeline, lower margins | **Medium Priority** |
 | **Home Recovery** | ✅ Strong affinity (100x, 15.3%) | ✅ Fits Family/Comfort segments well | ⚠️ Requires education, new channels | **Long-term Opportunity** |
 | **Compression Gear** | ⚠️ High affinity but narrow reach (119x, 12.7%) | ⚠️ Only serves Dedicated Athletes | ✅✅ Easiest activation, fastest, lowest cost | **Quick Win** |

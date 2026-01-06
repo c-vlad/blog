@@ -1,8 +1,9 @@
-
+---
 title: 'Estimating lift in small panel longitudinal studies'
 categories: ['audience intelligence']
 tags: ['essai']
 weight: 3
+---
 
 # Handling Small Panels and Zero Observations in Longitudinal Audience Intelligence Studies
 

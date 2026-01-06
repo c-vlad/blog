@@ -1,4 +1,4 @@
-
+---
 title: "Layer 3 - Activation Intelligence"
 toc: true
 weight: 6
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **5 Layer 3 - Activation Intelligence**
 

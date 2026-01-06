@@ -1,4 +1,4 @@
-
+---
 title: "Layer 1 Appendix - Strategic Intelligence Quadrant Examples"
 toc: true
 weight: 4
@@ -7,6 +7,7 @@ bookFlatSection: false
 bookHidden: false
 date: 2026-01-02
 categories: ['audience intelligence']
+---
 
 # **APPENDIX: Strategic Intelligence Quadrant Examples**
 
