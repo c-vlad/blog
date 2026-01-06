@@ -9,6 +9,13 @@ theme = "book"
 # [permalinks]
 # articles = "/:slug/"   # Generates /article-name/ instead of /blog/article-name/
 
+[permalinks]
+post = "/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   project = false
   BookTheme = "light"
