@@ -24,6 +24,9 @@ jobs:
           rm -rf public/
           rm -rf resources/_gen
 
+      - name: List theme folder
+        run: ls -lR themes/book
+
       - name: Build the website
         run: hugo --minify
 
