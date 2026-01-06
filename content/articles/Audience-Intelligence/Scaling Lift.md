@@ -1,8 +1,9 @@
-
+---
 title: 'Scaling Lift'
 categories: ['audience intelligence']
 tags: ['essai']
 weight: 2
+---
 
 # Estimating Overlap in Scaled Audiences: A Principled Approach Using I-Projection
 
