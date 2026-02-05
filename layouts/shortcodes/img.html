@@ -1,0 +1,12 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" | default "" }}
+
+<figure class="doc-image">
+  <a href="{{ $src }}" class="zoom-link">
+    <img src="{{ $src }}" alt="{{ $alt }}">
+  </a>
+  {{ if $caption }}
+    <figcaption>{{ $caption }}</figcaption>
+  {{ end }}
+</figure>

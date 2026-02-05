@@ -1,6 +1,6 @@
 ---
-title: Welcome
-weight: 3
+title: Tactical articles
+weight: 20
 bookCollapseSection: true
 bookFlatSection: false
 bookHidden: false

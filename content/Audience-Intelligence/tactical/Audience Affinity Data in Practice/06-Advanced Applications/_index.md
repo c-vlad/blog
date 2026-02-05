@@ -1,6 +1,6 @@
 ---
-title: Welcome
-weight: 3
+title: Advanced Applications
+weight: 60
 bookCollapseSection: true
 bookFlatSection: false
 bookHidden: false

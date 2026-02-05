@@ -23,7 +23,16 @@ post = "/:title/"
   BookSection = "*"
  # BookLogo = "/images/AudienceIntelligence.png"
   BookLogo = "/images/TheIntelligenceLayer.png"
+  math = true
 
 [markup]
-  [markup.goldmark.renderer]
-    unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      math = true
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+    [markup.goldmark.renderer]
+      unsafe = true

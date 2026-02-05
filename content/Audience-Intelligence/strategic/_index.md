@@ -1,6 +1,6 @@
 ---
-title: Welcome
-weight: 3
+title: Strategy articles
+weight: 10
 bookCollapseSection: true
 bookFlatSection: false
 bookHidden: false

@@ -1,0 +1,327 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2.6rem;
+  color: #0d1b3d;
+  font-weight: 800;
+  margin-top: 2.2rem;
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-size: 2.05rem;
+  color: #144594;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  color: #213350;
+  font-weight: 700;
+  margin-top: 1.7rem;
+  margin-bottom: 0.7rem;
+  letter-spacing: 0.015em;
+}
+
+h4 {
+  font-size: 1.35rem;
+  color: #144594;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+h5 {
+  font-size: 1.15rem !important;
+  color: #2c3b53;            /* darker than before */
+  font-weight: 600;
+  letter-spacing: 0.02em;    /* intentional “eyebrow” look */
+  //text-transform: uppercase;
+  margin-top: 1.3rem;
+  margin-bottom: 0.3rem;
+}
+
+h6 {
+  font-size: inherit !important;
+  color: #116add;            /* near-black, not gray */
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;   /* pulls description closer */
+  line-height: 1.4;
+  position: relative;
+  padding-left: 1.1rem;     /* space for bullet */
+}
+
+/* Bullet / marker */
+h6::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #144594;            /* ties into your heading blue */
+  font-weight: 700;
+}
+
+// h6 + p {
+//   margin-left: 1.4rem;       /* match h6 padding-left */
+//   margin-top: 0.25rem;       /* keep spacing tight */
+// }
+
+// h6 + p,
+// h6 + ul,
+// h6 + ol,
+// h6 + p + p,
+// h6 + ul + li {
+//   margin-left: 1.4rem;
+// }
+
+// strong:first-child {
+//   color: #213350;
+// }
+
+.indented {
+  margin-left: 1.3rem;    /* how much to indent */
+  padding-left: 0;
+}
+
+.quadrant-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.quadrant-cards .card {
+  border-radius: 10px;
+  padding: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.quadrant-cards .card strong {
+  color: #eef0d1;
+  font-size: 1.15rem;    /* slightly larger for emphasis */
+  display: block;        /* ensure title is on its own line */
+  margin-bottom: 0.6em;
+}
+
+.quadrant-cards .symmetric {
+  background-color: #8db4ca; /* blue */
+}
+
+.quadrant-cards .asymmetric {
+  background-color: #e9867b; /* red/orange for urgency */
+}
+
+.quadrant-cards .niche {
+  background-color: #89b49b; /* green for safe/niche */
+}
+
+.quadrant-cards .minimal {
+  background-color: #a3a7af; /* gray/subtle for minimal overlap */
+}
+
+
+
+
+/* Grid container for ecosystem types */
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+/* Individual ecosystem-type cards */
+.grid-3 .ecosystem-type {
+  border-radius: 10px;
+  padding: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  line-height: 1.4;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Optional hover effect */
+.grid-3 .ecosystem-type:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Titles (h4/#### in Markdown) */
+.grid-3 .ecosystem-type h4,
+.grid-3 .ecosystem-type h5,
+.grid-3 .ecosystem-type h6 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+/* Bold pattern labels */
+.grid-3 .ecosystem-type strong {
+  color: #eef0d1;
+  font-size: 1.15rem;
+  display: block;
+  margin-bottom: 0.6em;
+}
+
+/* Individual types color-coded */
+.grid-3 .competitor {
+  background-color: #e9867b; /* red/orange: urgency */
+}
+
+.grid-3 .cross-competitor {
+  background-color: #8db4ca; /* blue: attention */
+}
+
+.grid-3 .partner {
+  background-color: #89b49b; /* green: safe/niche */
+}
+
+.grid-3 .channel {
+  background-color: #a3a7af; /* gray: neutral/media */
+}
+
+.grid-3 .expansion {
+  background-color: #f5b971; /* yellow/orange: growth */
+}
+
+.grid-3 .signal {
+  background-color: #b28fd1; /* purple: cultural/psychographic */
+}
+
+
+
+
+
+
+/* Global table styling for better readability */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+table th,
+table td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb; /* light gray subtle separator */
+}
+
+table th {
+  background-color: #f9fafb; /* very light gray for header */
+  font-weight: 600;
+  color: #144594; /* accent blue for headers */
+}
+
+table tr:nth-child(even) td {
+  background-color: #f5f5f5; /* subtle zebra striping for even rows */
+}
+
+table tr:hover td {
+  background-color: #e0e7ff; /* subtle hover highlight */
+}
+
+/* Optional: right-align numeric values */
+table td:nth-child(n+2) {
+  text-align: right;
+}
+
+/* Responsive tables */
+@media (max-width: 768px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  table tr {
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e5e7eb;
+  }
+  table td {
+    text-align: right;
+    padding-left: 50%;
+    position: relative;
+  }
+  table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0.75rem;
+    width: 45%;
+    text-align: left;
+    font-weight: 600;
+    color: #144594;
+  }
+}
+
+
+
+.expand {
+  margin: 1em 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.5em 0.75em;
+  background: #fafafa;
+}
+
+.expand-title {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+
+.expand-title::-webkit-details-marker {
+  display: none;
+}
+
+.expand-title::before {
+  content: "▶ ";
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.expand[open] .expand-title::before {
+  transform: rotate(90deg);
+}
+
+.expand-content {
+  margin-top: 0.75em;
+}
+
+
+
+
+
+
+.doc-image {
+  text-align: center;
+  margin: 2em 0;
+}
+.doc-image img {
+  max-width: 100%;      /* full-width default */
+  height: auto;
+  cursor: zoom-in;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+.zoom-link img:hover {
+  transform: scale(1.05);
+}
+.doc-image figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+@media (prefers-color-scheme: dark) {
+  .doc-image figcaption {
+    color: #aaa;
+  }
+  .doc-image img {
+    filter: brightness(0.95);
+  }
+}

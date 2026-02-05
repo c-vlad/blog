@@ -1,6 +1,6 @@
 ---
-title: Welcome
-weight: 3
+title: Partnership & Collaboration
+weight: 30
 bookCollapseSection: true
 bookFlatSection: false
 bookHidden: false

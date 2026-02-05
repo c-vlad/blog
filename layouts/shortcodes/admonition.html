@@ -1,0 +1,8 @@
+{{ $type := .Get 0 | default "note" }}
+
+{{ $icons := dict "note" "📝" "warning" "⚠️" "info" "ℹ️" }}
+{{ $labels := dict "note" "Note" "warning" "Warning" "info" "Info" }}
+
+<div class="admonition {{ $type }}">
+  {{ index $icons $type }} <strong>{{ index $labels $type }}:</strong> {{ .Inner | markdownify }}
+</div>
